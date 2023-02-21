@@ -12,5 +12,6 @@
     "tutorial"
   ],
   "author": "Gilberto Espinoza Maciel <gilbertoespinoza97@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
